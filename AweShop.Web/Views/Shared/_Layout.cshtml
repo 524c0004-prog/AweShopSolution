@@ -1,0 +1,123 @@
+﻿@using AweShop.Models
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - AWE Electronics</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <!-- Thêm style cho icon trái tim/giỏ hàng -->
+    <style>
+        .icon-link {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+            margin-left: 15px;
+        }
+
+            .icon-link:hover {
+                color: #a91e1e;
+            }
+    </style>
+</head>
+<body>
+    <!-- 1. Header Trắng (Logo + Search + Icons) -->
+    <div style="background-color: white; padding: 15px 0; border-bottom: 1px solid #ddd;">
+        <div class="container d-flex align-items-center justify-content-between">
+            <!-- Logo -->
+            <a href="@Url.Action("Index", "Home")" style="text-decoration: none; color: black; line-height: 1.2;">
+                <span style="font-weight: 900; font-size: 26px; font-family: Arial, sans-serif;">AWE 🌐</span> <br />
+                <span style="font-weight: bold; font-size: 20px;">Electronics</span>
+            </a>
+
+            <!-- Search Bar -->
+            <div style="flex-grow: 1; margin: 0 50px;">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search With Keyword or Item" style="background: #f5f5f5; border: none; padding: 10px;">
+                    <div class="input-group-append">
+                        <button class="btn btn-light" type="button" style="border: none; background: #f5f5f5;">🔍</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Icons Right (Favourite, Account, Cart) -->
+            <div class="d-flex align-items-center">
+                <a href="#" class="icon-link">♡ Favourite</a>
+                @if (Session["User"] != null)
+                {
+                    <span class="mr-2">Hi, <b>@Session["UserName"]</b></span>
+                    <a href="@Url.Action("Logout", "Auth")" class="text-danger font-weight-bold" style="text-decoration:none;">(Logout)</a>
+                }
+                else
+                {
+                    <a href="@Url.Action("Login", "Auth")" class="icon-link">👤 Account/Login</a>
+                }
+
+                <!-- NÚT GIỎ HÀNG (Đã sửa code chuẩn ở đây) -->
+                <a href="@Url.Action("Index", "Cart")" class="icon-link">
+                    🛒 Cart
+                    @if (Session["Cart"] != null)
+                    {
+                        var cart = Session["Cart"] as List<CartItem>;
+                        if (cart.Count > 0)
+                        {
+                            <span class="badge badge-danger" style="background-color: #a91e1e; color: white; border-radius: 50%;">
+                                @cart.Sum(x => x.Quantity)
+                            </span>
+                        }
+                    }
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. Menu Đỏ (Navigation) -->
+    <div style="background: #a91e1e; margin-bottom: 20px;">
+        <div class="container">
+            <ul class="nav" style="display: flex; list-style: none; padding: 0; margin: 0;">
+
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("Index", "Home")">Home</a>
+                </li>
+
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "Wearables" })">Wearables</a>
+                </li>
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "Cameras" })">Cameras</a>
+                </li>
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "Smartphone" })">Smartphones</a>
+                </li>
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "TV & Home" })">TV & Home Theater</a>
+                </li>
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "Accessories" })">Accessories</a>
+                </li>
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "Audio" })">Audio</a>
+                </li>
+                <li class="nav-item" style="padding: 10px 15px;">
+                    <a class="nav-link text-white font-weight-bold" href="@Url.Action("ProductsByCategory", "Home", new { categoryName = "Laptop" })">Laptop & Tablet</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- 3. Nội dung trang web (Body) -->
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - AWE Electronics Shop</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,89 @@
+﻿
+@model IEnumerable<AweShop.Models.CartItem>
+
+@{
+    ViewBag.Title = "Shopping Cart";
+}
+
+<div class="container mt-5">
+    <h2 class="font-weight-bold mb-4">Shopping Cart <span style="font-size: 0.6em">🛒</span></h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning">Your cart is empty. <a href="/">Go shopping</a></div>
+    }
+    else
+    {
+        <div class="row">
+            <!-- Cột trái: Danh sách sản phẩm -->
+            <div class="col-md-8">
+                @foreach (var item in Model)
+                {
+                    <div class="card mb-3 shadow-sm border-0">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <!-- Ảnh -->
+                                <div class="col-3">
+                                    <img src="@item.Product.ImageUrl" alt="@item.Product.Name" class="img-fluid rounded border" style="max-height: 100px;">
+                                </div>
+                                <!-- Thông tin -->
+                                <div class="col-5">
+                                    <small class="text-muted">@item.Product.Category</small>
+                                    <h5 class="mb-1 font-weight-bold">@item.Product.Name</h5>
+
+                                    <div class="mt-2">
+                                        <label class="text-secondary small font-weight-bold">QUANTITY</label>
+                                        <div class="input-group input-group-sm" style="width: 100px;">
+                                            <div class="input-group-prepend">
+                                                <a href="@Url.Action("UpdateCart", "Cart", new { id = item.Product.Id, newQuantity = item.Quantity - 1 })" class="btn btn-outline-secondary" type="button">-</a>
+                                            </div>
+                                            <input type="text" class="form-control text-center" value="@item.Quantity" readonly>
+                                            <div class="input-group-append">
+                                                <a href="@Url.Action("UpdateCart", "Cart", new { id = item.Product.Id, newQuantity = item.Quantity + 1 })" class="btn btn-outline-secondary" type="button">+</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Giá & Xóa -->
+                                <div class="col-4 text-right">
+                                    <a href="@Url.Action("RemoveFromCart", "Cart", new { id = item.Product.Id })" class="text-dark mb-3 d-block" title="Remove">🗑</a>
+                                    <h5 class="text-success font-weight-bold">AU$ @item.TotalPrice</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <!-- Cột phải: Tổng tiền (Order Summary) -->
+            <div class="col-md-4">
+                <div class="card shadow-sm border">
+                    <div class="card-body">
+                        <h4 class="card-title font-weight-bold">Order summary <span class="text-muted font-weight-normal">| @Model.Sum(x => x.Quantity) item(s)</span></h4>
+                        <hr />
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>Subtotal</span>
+                            <span class="font-weight-bold">AU$ @ViewBag.TotalAmount</span>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>Shipping fee</span>
+                            <span class="text-success font-weight-bold">FREE</span>
+                        </div>
+                        <div class="d-flex justify-content-between mb-4">
+                            <span>VAT included</span>
+                            <span>$25</span>
+                        </div>
+                        <hr />
+                        <div class="d-flex justify-content-between mb-4">
+                            <h5 class="font-weight-bold">Order Total</h5>
+                            <h4 class="text-success font-weight-bold">AU$ @(ViewBag.TotalAmount + 25)</h4>
+                        </div>
+
+                        <a href="@Url.Action("Checkout", "Cart")" class="btn btn-danger btn-block font-weight-bold" style="background-color: #a91e1e; border: none; padding: 10px;">Check out</a>
+                        <a href="/" class="btn btn-secondary btn-block mt-2" style="background-color: #555; border: none;">Add more Products</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

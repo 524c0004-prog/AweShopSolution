@@ -1,0 +1,64 @@
+﻿@model AweShop.Web.Controllers.CartController.PaymentInfo
+
+@{
+    ViewBag.Title = "Payment Information";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            @* Giảm kích thước cột để View gọn gàng hơn, dựa trên fix18.png *@
+            <div class="card shadow-sm p-4">
+
+                <h2 class="card-title text-center mb-4 font-weight-bold">
+                    💳 Payment Information
+                </h2>
+                <h4 class="text-danger text-center mb-3">Total: @string.Format("AU$ {0:N2}", ViewBag.TotalAmount)</h4>
+
+                @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+                {
+                    // Hiển thị ValidationSummary cho cả lỗi cấp Model (thiếu Cart/Shipping) và lỗi cấp thuộc tính (nếu có)
+                    @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+
+                    <div class="form-group mb-3">
+                        <label for="CardholderName" class="font-weight-bold">Cardholder Name</label>
+                        @Html.TextBoxFor(model => model.CardholderName, new { @class = "form-control form-control-lg", placeholder = "e.g., Emma Doe", required = "required" })
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label for="CardNumber" class="font-weight-bold">Card Number</label>
+                        @Html.TextBoxFor(model => model.CardNumber, new { @class = "form-control form-control-lg", placeholder = "1234 5678 9012 345", required = "required" })
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="ExpiryDate" class="font-weight-bold">Expired Date (MM/YY)</label>
+                                @Html.TextBoxFor(model => model.ExpiryDate, new { @class = "form-control form-control-lg", placeholder = "MM/YY", required = "required" })
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="CVV" class="font-weight-bold">CVV</label>
+                                @Html.TextBoxFor(model => model.CVV, new { @class = "form-control form-control-lg", placeholder = "123", required = "required" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr class="my-4" />
+
+                    <div class="d-flex justify-content-between">
+                        <a href="@Url.Action("Checkout", "Cart")" class="btn btn-outline-secondary btn-lg" style="width: 48%;">
+                            Back to Shipping
+                        </a>
+
+                        <button type="submit" class="btn btn-danger btn-lg font-weight-bold" style="background-color: #a91e1e; border: none; width: 48%;">
+                            Place Order
+                        </button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|c:\\users\\acer\\downloads\\aweshopsolution (3)\\aweshopsolution\\aweshop.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AweShop.DAL.ApplicationDbContext/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AweShop.Desktop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A338D37-B1F1-4F1C-A6A7-D930AF317BEC}|AweShop.BLL\\AweShop.BLL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.bll\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A338D37-B1F1-4F1C-A6A7-D930AF317BEC}|AweShop.BLL\\AweShop.BLL.csproj|solutionrelative:aweshop.bll\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\migrations\\202512060313056_addorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\migrations\\202512060313056_addorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|solutionrelative:aweshop.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5618AE2F-8EBB-4055-AE5A-3C13E22E3DDB}|AweShop.Tests\\AweShop.Tests.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5618AE2F-8EBB-4055-AE5A-3C13E22E3DDB}|AweShop.Tests\\AweShop.Tests.csproj|solutionrelative:aweshop.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A338D37-B1F1-4F1C-A6A7-D930AF317BEC}|AweShop.BLL\\AweShop.BLL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A338D37-B1F1-4F1C-A6A7-D930AF317BEC}|AweShop.BLL\\AweShop.BLL.csproj|solutionrelative:aweshop.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.desktop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37D33415-5862-4D23-908F-D8B602B41BFB}|AweShop.Desktop\\AweShop.Desktop.csproj|solutionrelative:aweshop.desktop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\migrations\\202512030904482_updatedatabasemoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\migrations\\202512030904482_updatedatabasemoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\migrations\\202512030648376_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\migrations\\202512030648376_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.dal\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E704146B-A3F1-46E5-A014-1A890C1DD6B7}|AweShop.DAL\\AweShop.DAL.csproj|solutionrelative:aweshop.dal\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4E4150-0FCD-413C-9B24-0D0CA81FE286}|AweShop.Web\\AweShop.Web.csproj|solutionrelative:aweshop.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|solutionrelative:aweshop.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|solutionrelative:aweshop.models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\aweshop.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38BEF85-8DDC-4499-9258-CD99B375C5E0}|AweShop.Models\\AweShop.Models.csproj|solutionrelative:aweshop.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Web.config",
+              "RelativeDocumentMoniker": "AweShop.Web\\Web.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Web.config",
+              "RelativeToolTip": "AweShop.Web\\Web.config",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T06:03:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\App.config",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\App.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\App.config",
+              "RelativeToolTip": "AweShop.Desktop\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-05T13:23:19.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Web.config",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Web.config",
+              "RelativeToolTip": "AweShop.Web\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T05:52:57.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "AweShop.Web\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "AweShop.Web\\Controllers\\CartController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAOcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:30:59.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AweShop.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:53:46.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Cart\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Cart\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T06:01:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Orders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AweShop.DAL.ApplicationDbContext/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AweShop.DAL.ApplicationDbContext/True/SqlTable/dbo.Orders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-06T04:13:34.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202512060313056_AddOrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\202512060313056_AddOrderStatus.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\Migrations\\202512060313056_AddOrderStatus.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\202512060313056_AddOrderStatus.cs",
+              "RelativeToolTip": "AweShop.DAL\\Migrations\\202512060313056_AddOrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:13:10.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\OrderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\OrderForm.Designer.cs",
+              "RelativeToolTip": "AweShop.Desktop\\OrderForm.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:22:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AweShop.Desktop",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\AweShop.Desktop.csproj",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\AweShop.Desktop.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\AweShop.Desktop.csproj",
+              "RelativeToolTip": "AweShop.Desktop\\AweShop.Desktop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-06T03:38:20.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\OrderForm.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\OrderForm.cs",
+              "RelativeToolTip": "AweShop.Desktop\\OrderForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:07:16.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.BLL\\OrderServices.cs",
+              "RelativeDocumentMoniker": "AweShop.BLL\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.BLL\\OrderServices.cs",
+              "RelativeToolTip": "AweShop.BLL\\OrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:13:06.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\OrderForm.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AweShopSolution\\AweShop.Desktop\\OrderForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ADMIN\\source\\repos\\AweShopSolution\\AweShop.Desktop\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:01:23.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\MainForm.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\MainForm.cs",
+              "RelativeToolTip": "AweShop.Desktop\\MainForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADgv3YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:20:00.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\MainForm.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AweShopSolution\\AweShop.Desktop\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ADMIN\\source\\repos\\AweShopSolution\\AweShop.Desktop\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:11:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "AweShop.Tests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "AweShop.Tests\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T02:54:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\Order.cs",
+              "RelativeDocumentMoniker": "AweShop.Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\Order.cs",
+              "RelativeToolTip": "AweShop.Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:53:48.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\ProductForm.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\ProductForm.cs",
+              "RelativeToolTip": "AweShop.Desktop\\ProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:39:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\ProductForm.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AweShopSolution\\AweShop.Desktop\\ProductForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ADMIN\\source\\repos\\AweShopSolution\\AweShop.Desktop\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:31:09.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "AweShop.BLL\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.BLL\\ProductService.cs",
+              "RelativeToolTip": "AweShop.BLL\\ProductService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:52:57.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\ProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\ProductForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\ProductForm.Designer.cs",
+              "RelativeToolTip": "AweShop.Desktop\\ProductForm.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:57:16.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\App.config",
+              "RelativeDocumentMoniker": "AweShop.DAL\\App.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\App.config",
+              "RelativeToolTip": "AweShop.DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-05T15:24:26.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AweShop.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AweShop.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:46:41.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\packages.config",
+              "RelativeDocumentMoniker": "AweShop.Desktop\\packages.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Desktop\\packages.config",
+              "RelativeToolTip": "AweShop.Desktop\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-05T13:26:11.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T12:21:51.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwJ8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T06:47:14.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "202512030904482_UpdateDatabaseMoi.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\202512030904482_UpdateDatabaseMoi.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\Migrations\\202512030904482_UpdateDatabaseMoi.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\202512030904482_UpdateDatabaseMoi.cs",
+              "RelativeToolTip": "AweShop.DAL\\Migrations\\202512030904482_UpdateDatabaseMoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:04:52.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRespository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\ProductRespository.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\ProductRespository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\ProductRespository.cs",
+              "RelativeToolTip": "AweShop.DAL\\ProductRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:52:11.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:30.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\Payment.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Cart\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\Payment.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Cart\\Payment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T08:15:29.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bootstrap.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.rtl.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:31.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.rtl.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.rtl.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:30.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\Site.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\Site.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:31.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:30.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:29.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bootstrap-utilities.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:29.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bootstrap-utilities.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bootstrap-utilities.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.rtl.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:29.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bootstrap-utilities.rtl.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.rtl.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.rtl.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "bootstrap-utilities.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:29.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "bootstrap-utilities.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:29.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:28.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-utilities.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:28.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "bootstrap-reboot.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:28.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "bootstrap-reboot.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:28.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.rtl.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:28.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:28.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "bootstrap-reboot.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:28.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-reboot.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:27.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:27.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.rtl.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:27.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:27.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:27.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-03T08:50:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "AweShop.Web\\Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "AweShop.Web\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T08:50:27.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwGsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T06:00:22.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T05:38:52.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "AweShop.DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:48:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAGsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T05:46:05.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AweShop.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AweShop.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:57:09.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "202512030648376_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\202512030648376_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\Migrations\\202512030648376_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\Migrations\\202512030648376_InitialCreate.cs",
+              "RelativeToolTip": "AweShop.DAL\\Migrations\\202512030648376_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:48:42.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T04:58:00.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\UserRespository.cs",
+              "RelativeDocumentMoniker": "AweShop.DAL\\UserRespository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.DAL\\UserRespository.cs",
+              "RelativeToolTip": "AweShop.DAL\\UserRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:12:22.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AweShop.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AweShop.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:14:25.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\User.cs",
+              "RelativeDocumentMoniker": "AweShop.Models\\User.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\User.cs",
+              "RelativeToolTip": "AweShop.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:11:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T06:32:10.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "AweShop.Web\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "AweShop.Web\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwGgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T06:16:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "AweShop.Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\CartItem.cs",
+              "RelativeToolTip": "AweShop.Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:29:22.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\Product.cs",
+              "RelativeDocumentMoniker": "AweShop.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\AweShopSolution (3)\\AweShopSolution\\AweShop.Models\\Product.cs",
+              "RelativeToolTip": "AweShop.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:51:11.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

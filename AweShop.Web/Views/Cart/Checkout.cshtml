@@ -1,0 +1,108 @@
+﻿@model AweShop.Models.Order
+
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-7">
+            <h2 class="mb-4">CheckOut</h2>
+
+            @using (Html.BeginForm("Checkout", "Cart", FormMethod.Post))
+            {
+                @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+
+                <h4 class="mb-3">User details</h4>
+                <div class="row">
+                    <div class="col-md-6 form-group">
+                        <label for="firstName">First name <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.FirstName, new { @class = "form-control", placeholder = "Emma", required = "required" })
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label for="lastName">Last name <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.LastName, new { @class = "form-control", placeholder = "Doe", required = "required" })
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 form-group">
+                        <label for="email">Email <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "email@example.com", type = "email", required = "required" })
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label for="phone">Phone number <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.PhoneNumber, new { @class = "form-control", placeholder = "Phone number", required = "required" })
+                    </div>
+                </div>
+
+                <h4 class="mt-4 mb-3">Shipping detail</h4>
+                <div class="form-group">
+                    <label for="street">Street address <span class="text-danger">*</span></label>
+                    @Html.TextBoxFor(model => model.StreetAddress, new { @class = "form-control", placeholder = "Street address", required = "required" })
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 form-group">
+                        <label for="city">City <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.City, new { @class = "form-control", placeholder = "City", required = "required" })
+                    </div>
+                    <div class="col-md-4 form-group">
+                        <label for="state">State <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.State, new { @class = "form-control", placeholder = "State", required = "required" })
+                    </div>
+                    <div class="col-md-4 form-group">
+                        <label for="postcode">Post code <span class="text-danger">*</span></label>
+                        @Html.TextBoxFor(model => model.PostCode, new { @class = "form-control", placeholder = "Post code", required = "required" })
+                    </div>
+                </div>
+
+                <div class="form-group mt-2">
+                    <label for="note">Extra note</label>
+                    @Html.TextAreaFor(model => model.ExtraNote, new { @class = "form-control", rows = "3" })
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <a href="@Url.Action("Index", "Cart")" class="btn btn-outline-secondary btn-lg">
+                        Back to Cart
+                    </a>
+
+                    <button type="submit" class="btn btn-danger btn-lg font-weight-bold" style="background-color: #a91e1e; border: none;">
+                        Continue to Payment
+                    </button>
+                </div>
+            }
+        </div>
+
+        <div class="col-md-5">
+            <div class="card p-3 sticky-top" style="top: 20px;">
+                <h5 class="font-weight-bold">You have @ViewBag.CartCount items in your cart</h5>
+                <hr>
+
+                <div class="d-flex justify-content-between my-2">
+                    <span>Subtotal</span>
+                    <span class="font-weight-bold">@string.Format("AU$ {0:N2}", ViewBag.TotalAmount)</span>
+                </div>
+                <div class="d-flex justify-content-between my-2">
+                    <span>Shipping</span>
+                    <span class="text-success font-weight-bold">Free</span>
+                </div>
+
+                <hr>
+
+                <div class="d-flex justify-content-between my-2">
+                    <h5 class="font-weight-bold">Order Total</h5>
+                    <h5 class="font-weight-bold text-danger">@string.Format("AU$ {0:N2}", ViewBag.TotalAmount)</h5>
+                </div>
+
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Promo code">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="button">Apply</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,105 @@
+﻿@{ Layout = null; }
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login - AWE Electronics</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: sans-serif;
+        }
+
+        .login-box {
+            max-width: 500px;
+            margin: 50px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+
+        .btn-toggle-left {
+            border-radius: 20px 0 0 20px;
+        }
+
+        .btn-toggle-right {
+            border-radius: 0 20px 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Logo -->
+    <div class="container text-center mt-5 mb-3">
+        <h2><span style="font-weight:900; color:#a91e1e">AWE 🌐</span> <b>Electronics</b></h2>
+    </div>
+
+    <!-- Login Form -->
+    <div class="login-box">
+        <h3 class="text-center mb-4">Welcome to <b>AWE Electronics</b></h3>
+
+        <!-- Tabs User/Staff (Đã thêm ID để bắt sự kiện click) -->
+        <div class="btn-group w-100 mb-4">
+            <button type="button" id="btnUser" onclick="switchTab('user')" class="btn btn-dark w-50 btn-toggle-left">User sign in</button>
+            <button type="button" id="btnStaff" onclick="switchTab('staff')" class="btn btn-outline-dark w-50 btn-toggle-right">Staff sign in</button>
+        </div>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">@ViewBag.Error</div>
+        }
+
+        <form action="@Url.Action("Login", "Auth")" method="post">
+            <div class="form-group">
+                <label class="font-weight-bold">Email <span class="text-danger">*</span></label>
+                <input type="email" name="email" class="form-control" placeholder="Enter your email" required />
+            </div>
+
+            <div class="form-group">
+                <label class="font-weight-bold">Password <span class="text-danger">*</span></label>
+                <input type="password" name="password" class="form-control" placeholder="Enter your password" required />
+            </div>
+
+            <button type="submit" class="btn btn-dark btn-block mt-4 py-2" style="border-radius: 5px;">Sign In</button>
+        </form>
+
+        <div class="text-center mt-3">
+            <a href="#" class="text-muted small">Forgot password?</a>
+        </div>
+
+        <hr class="my-4" />
+
+        <div class="text-center">
+            <span>Don't have an account? </span>
+            <!-- Link chuyển sang trang Register -->
+            <a href="@Url.Action("Register", "Auth")" class="font-weight-bold text-dark">Click here to create one</a>
+        </div>
+    </div>
+
+    <!-- JavaScript xử lý hiệu ứng chuyển nút -->
+    <script>
+        function switchTab(role) {
+            var btnUser = document.getElementById('btnUser');
+            var btnStaff = document.getElementById('btnStaff');
+
+            if (role === 'user') {
+                // Làm nút User đen, nút Staff trắng
+                btnUser.classList.remove('btn-outline-dark');
+                btnUser.classList.add('btn-dark');
+
+                btnStaff.classList.remove('btn-dark');
+                btnStaff.classList.add('btn-outline-dark');
+            } else {
+                // Làm nút Staff đen, nút User trắng
+                btnStaff.classList.remove('btn-outline-dark');
+                btnStaff.classList.add('btn-dark');
+
+                btnUser.classList.remove('btn-dark');
+                btnUser.classList.add('btn-outline-dark');
+            }
+        }
+    </script>
+</body>
+</html>

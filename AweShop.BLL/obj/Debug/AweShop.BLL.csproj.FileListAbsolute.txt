@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.BLL.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.BLL.pdb
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.DAL.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.Models.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.DAL.pdb
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.DAL.dll.config
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.Models.pdb
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\obj\Debug\AweShop.BLL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\obj\Debug\AweShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\obj\Debug\AweShop..A4EA38EB.Up2Date
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\obj\Debug\AweShop.BLL.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\obj\Debug\AweShop.BLL.pdb
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\AweShop.BLL.dll.config
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.BLL\bin\Debug\EntityFramework.SqlServer.xml

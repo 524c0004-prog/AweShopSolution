@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.Models\bin\Debug\AweShop.Models.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.Models\bin\Debug\AweShop.Models.pdb
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.Models\obj\Debug\AweShop.Models.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.Models\obj\Debug\AweShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.Models\obj\Debug\AweShop.Models.dll
+C:\Users\ADMIN\source\repos\AweShopSolution\AweShop.Models\obj\Debug\AweShop.Models.pdb
